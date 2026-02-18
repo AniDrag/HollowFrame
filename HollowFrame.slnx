@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+<Project Path="Sandbox/Sandbox.vcxproj" 
+Id="3ec68a73-3acf-432c-baaf-f14050d07b34" 
+/>
+  <Project Path="HollowFrame/HollowFrame.vcxproj" Id="e52ad520-473d-46e6-9f90-77db3e2a3a9f" 
+/>
+  
+</Solution>
